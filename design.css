@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    background-image: url(mss.gif);
+    border-radius:2px solid red;
+    margin: 50px 50px; 
+    /* margin: auto; */
+    width: 73rem;
+    height: 38rem;
+    color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    text-align: center;
+   
+}
+#p1{
+    color: #0b0a7b;
+    padding: auto;
+    padding-top: -2rem;
+    font-size: 3rem;
+}
+#p2{
+    color: #cf952a;
+    padding: auto;
+    padding-top: 7rem;
+    font-size: 2rem;
+}
+.copyright{
+    background-color: #cf952a;
+   background-position: center;
+   
+   width: 1800px;
+   max-width: calc(100% - 0px);
+    height: auto;
+    object-position: bottom;
+   position: fixed;
+    justify-content: center;
+    text-align: center;
+    bottom: 0px;
+    color: rgb(0, 0, 0);
+    font-size: 1.3rem;
+     line-height: 2rem;
+
+}
